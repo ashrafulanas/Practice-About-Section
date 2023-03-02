@@ -1,0 +1,27 @@
+
+Head Link File List
+<!-- Google Font Link -->
+<!-- fontawesome -->
+<!-- themify -->
+<!-- Bootstrap Link -->
+<!-- Css link -->
+
+<body>
+    <!-- js scripts -->
+    <!-- js plugin scripts -->
+    <!-- js bootstrap scripts -->
+    <!-- js custom scripts -->
+</body>
+
+XtraSmall
+@media (max-width: 575.98px) {}
+Small
+@media (min-width: 576px) and (max-width: 767.98px){}
+Medium
+@media (min-width: 768px) and (max-width: 991.98px){}
+large
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+XtraLarge
+@media (min-width: 1200px) and (max-width: 1330px) {}
+XXLarge
+@media (min-width: 1330.5px) {}

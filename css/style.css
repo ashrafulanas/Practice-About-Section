@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--color-4);
+}
+img {
+  width: 100%;
+}
+p {
+  margin: 0rem;
+}
+ul,
+li {
+  list-style: none;
+}
+a,
+a:hover,
+a:visited {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+.btn,
+.btn:hover {
+  outline: none;
+}
+.btn:focus {
+  box-shadow: none;
+}
+.btn {
+  display: inline-block;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.practiceSection {
+  padding: 100px 0;
+  background-color: blanchedalmond;
+}
+.icon img {
+}
+.subtitle {
+}
+.subtitle h4 {
+  color: #fe4a55;
+  display: block;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.title {
+}
+.title h2 {
+  color: #221638;
+  line-height: 1.2;
+  margin-bottom: 15px;
+  font-size: 36px;
+  font-weight: 800;
+}
+.textInfo {
+}
+.textInfo p {
+  color: #606060;
+  margin-bottom: 15px;
+  line-height: 1.7;
+  font-size: 16px;
+}
